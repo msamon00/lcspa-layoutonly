@@ -228,7 +228,7 @@ p:last-child { margin-bottom: 0; }
 }
 
 .cta--outline:hover {
-  background: var(--plum);
+  background: var(--sky-blue);
   color: var(--white);
 }
 
