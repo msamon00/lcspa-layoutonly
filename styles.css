@@ -232,6 +232,16 @@ p:last-child { margin-bottom: 0; }
   color: var(--white);
 }
 
+.pricing-card--alt .cta--outline {
+  color: var(--white);
+  border-color: var(--white);
+}
+
+.pricing-card--alt .cta--outline:hover {
+  background: var(--white);
+  color: var(--plum);
+}
+
 /* =============================================
    HERO
 ============================================= */
