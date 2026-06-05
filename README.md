@@ -21,6 +21,7 @@ Once GitHub Pages is enabled, the site will be available at:
 * Responsive front-end framework (mobile-friendly in progress)
 * Organized file structure for scalable development
 * Git-based version control for updates
+* A dedicated FAQ page or expandable section to answer common customer questions and reduce support load.
 
 ---
 
@@ -28,9 +29,6 @@ Once GitHub Pages is enabled, the site will be available at:
 
 This is an early-stage build. Upcoming additions include:
 
-### ❓ FAQ Section
-
-A dedicated FAQ page or expandable section to answer common customer questions and reduce support load.
 
 ### 📊 User Analytics
 
